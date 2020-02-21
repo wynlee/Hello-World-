@@ -1,2 +1,1 @@
-This repository belongs to Zemin Wang .
-Showing you the progress how he learned C and Python .
+This is a high_ranking read_me 
